@@ -1,5 +1,5 @@
 # Snake-game
-This is snake game.
+This is snake game made with c.
 
 Controls:
 
